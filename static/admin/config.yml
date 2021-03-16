@@ -14,7 +14,7 @@ collections:
     files:
       - label: "About"
         name: about
-        file: src/components/md-store/assets/about.json
+        file: md-store/assets/about.json
         fields:
           - {label: "Name", name: "name", widget: "string"}
           - {label: "Year", name: "year", widget: "string"}
