@@ -4,7 +4,7 @@ import { StaticImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import About from "../md-store/assets/about.json"
+// import About from "../md-store/assets/about.json"
 
 const IndexPage = () => (
   <Layout>
