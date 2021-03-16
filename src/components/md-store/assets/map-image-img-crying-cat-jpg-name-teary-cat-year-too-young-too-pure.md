@@ -1,5 +1,0 @@
----
-name: teary cat
-year: too young too pure
-image: /img/crying-cat.jpg
----
