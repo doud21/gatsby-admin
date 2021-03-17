@@ -11,7 +11,7 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `data`,
-        path: `${__dirname}/src/components/md-store`,
+        path: `${__dirname}/src/md-store`,
       },
     },
     `gatsby-transformer-remark`,
